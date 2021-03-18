@@ -8,7 +8,7 @@ sections:
     content: |
       Herzlich Willkommen auf dieser Webseite
     actions:
-      - label: Let's talk
+      - label: Kontakt
         url: /contact
         style: button
   - section_id: latest-projects
