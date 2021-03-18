@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: Wir in Bern
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      Herzlich Willkommen auf dieser Webseite
     actions:
       - label: Let's talk
         url: /contact
