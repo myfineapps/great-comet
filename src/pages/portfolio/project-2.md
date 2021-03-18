@@ -2,7 +2,7 @@
 title: The New Herman Miller Aeron Chair
 subtitle: Just arrived today
 date: '2019-04-30'
-thumb_image: images/2_thumb.jpg
+thumb_image: images/IMG_7369.jpeg
 thumb_image_alt: An orange on a blue background
 image: images/2.jpg
 image_alt: An orange on a blue background
