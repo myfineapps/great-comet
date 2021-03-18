@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Wir in Bern
     content: |
-      Herzlich Willkommen auf dieser Webseite
+      Herzlich Willkommen auf dieser Webseite. Gruss von A und W.
     actions:
       - label: Kontakt
         url: /contact
