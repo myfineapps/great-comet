@@ -4,7 +4,7 @@ subtitle: Bundesstadt
 date: '2019-05-10'
 thumb_image: images/IMG_0783.jpeg
 thumb_image_alt: 'White, black, and red shoe sole'
-image: images/1.jpg
+image: images/IMG_0783.jpeg
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Project Title 1
